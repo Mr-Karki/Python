@@ -8,7 +8,7 @@ age = 22
 print(age)
 
 # Formatting
-"""
+
 user_input = int(input("Enter number: "))
 print("Printing the Table", user_input)
 
@@ -16,7 +16,7 @@ print(f"{user_input}*1={user_input*1}")
 print(f"{user_input}*2={user_input*2}")
 print(f"{user_input}*5={user_input*5}")
 print(f"{user_input}*10={user_input*10}")
-"""
+
 # Variable
 a, b, c = 6, 9, 69
 print(a, b, c) 
